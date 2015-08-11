@@ -22,7 +22,7 @@
 * The rank of the errors are calculated:
     * R[i] := #{j : W(P[j]) < W(P[i])}.
 * The max-rank is plotted:
-    * M[i] := max{R[j] : j <= i}.
+    * M[i] := max{R[j] : j <= i} against the order i.
 
 ## Files
 
